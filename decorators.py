@@ -4,7 +4,7 @@ def customizing(func):
         func()
         print("Adding sauce...")
         print("completed your customized pizza!")
-        print("==================================")
+        # print("==================================")
 
 @customizing
 def vegetarian_pizza():
